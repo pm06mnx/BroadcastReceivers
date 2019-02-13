@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastReceivers</string>
+    <string name="button_forward"><![CDATA[--->]]></string>
+    <string name="button_backward"><![CDATA[<---]]></string>
+</resources>
